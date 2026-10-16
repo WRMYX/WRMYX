@@ -15,12 +15,6 @@
 
 ---
 
-## 🚀 这是我们的一些小项目，欢迎你来参观！
-
-### ✨ [RimePPT](https://github.com/WRMYX/RimePPT)
-
-欢迎查看我们的 RimePPT 项目！详细介绍、使用方式和最新进展请访问项目仓库。
-
 <div align="center">
 
 ## 🎨 MYXMJY 开发团队 Logo
@@ -35,17 +29,27 @@
 
 ---
 
-## 📊 GitHub 数据
+## 🚀 这是我们的一些小项目，欢迎你来参观！
+
+### ✨ [RimePPT](https://github.com/WRMYX/RimePPT)
+
+欢迎查看我们的 RimePPT 项目！详细介绍、使用方式和最新进展请访问项目仓库。
+
+---
+
+## 📊 GitHub 数据 · Fluent Insights
+
+> 简洁的 Fluent 风格数据面板 · 以微软蓝为强调色
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WRMYX&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=cn" alt="WRMYX GitHub 统计" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WRMYX&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;locale=cn" alt="WRMYX 常用语言统计" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WRMYX&amp;show_icons=true&amp;locale=cn&amp;bg_color=202127&amp;title_color=60CDFF&amp;text_color=F5F5F5&amp;icon_color=60CDFF&amp;border_color=45464D&amp;hide_border=false&amp;rank_icon=github" alt="WRMYX GitHub 统计 · Fluent 风格" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WRMYX&amp;layout=compact&amp;locale=cn&amp;bg_color=202127&amp;title_color=60CDFF&amp;text_color=F5F5F5&amp;border_color=45464D&amp;hide_border=false" alt="WRMYX 常用语言 · Fluent 风格" />
 </div>
 
-## 🌌 贡献活动
+## 🗓️ 贡献活动 · Fluent Timeline
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WRMYX&amp;theme=tokyonight" alt="WRMYX 贡献活动概览" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WRMYX&amp;theme=github_dark" alt="WRMYX 贡献活动 · 深色简洁卡片" />
 
   **感谢你的到访，期待与你一起创造更多有趣的项目！** 🚀
 </div>
