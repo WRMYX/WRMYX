@@ -1,5 +1,5 @@
 ## Hi 这里是MYXMJY 👋
-<div>
+<div align="center">
   <p>这是 <strong>MYXMJY</strong> 开发开发者Logo</p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WRMYX/RimePPT/main/RimePPT/Assets/MYXMJY-white.png" />
