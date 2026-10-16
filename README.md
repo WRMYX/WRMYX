@@ -1,4 +1,4 @@
-## Hi 这里是MYXMJY 👋
+## Hi 这里是 <strong>MYXMJY</strong> 👋
 <div align="center">
   <p>这是 <strong>MYXMJY</strong> 开发开发者Logo</p>
   <picture>
