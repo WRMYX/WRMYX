@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi 这里是MYXMJY 👋
+<div align="center">
+  <p>由 <strong>MYXMJY</strong> 开发与维护</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WRMYX/RimePPT/main/RimePPT/Assets/MYXMJY-white.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WRMYX/RimePPT/main/RimePPT/Assets/MYXMJY-black.png" />
+    <img src="https://raw.githubusercontent.com/WRMYX/RimePPT/main/RimePPT/Assets/MYXMJY-black.png" width="180" height="40" alt="开发者 MYXMJY Logo" />
+  </picture>
+  <p><a href="https://RimePPT.MYXMJY.Top">官方网站</a> · <a href="https://github.com/WRMYX/RimePPT/issues">反馈问题</a></p>
+</div>
 
 <!--
 **WRMYX/WRMYX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
