@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://github.com/WRMYX?tab=followers"><img src="https://img.shields.io/github/followers/WRMYX?style=for-the-badge&logo=github&label=Followers&color=00bcd4" alt="关注者" /></a>
-  <img src="https://komarev.com/ghpvc/?username=WRMYX&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="主页访问量" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=WRMYX&color=blueviolet)
 </p>
 
 </div>
