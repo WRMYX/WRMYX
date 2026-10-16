@@ -1,4 +1,7 @@
 ## Hi 这里是 <strong>MYXMJY</strong> 👋
+
+
+
 <div align="center">
   <p>这是 <strong>MYXMJY</strong> 开发开发者Logo</p>
   <picture>
@@ -7,18 +10,3 @@
     <img src="https://raw.githubusercontent.com/WRMYX/RimePPT/main/RimePPT/Assets/MYXMJY-black.png" width="180" height="40" alt="开发者 MYXMJY Logo" />
   </picture>
 </div>
-
-<!--
-**WRMYX/WRMYX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
