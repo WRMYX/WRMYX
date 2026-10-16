@@ -1,33 +1,51 @@
 <div align="center">
 
-  <h1>Hi 这里是 <strong>MYXMJY</strong> 👋</h1>
+# Hi 这里是 **MYXMJY** 👋
 
-  <p>这是我们的一些小项目，欢迎你来参观！</p>
+**一个喜欢创造有趣软件的小团队 · Welcome to MYXMJY!**
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WRMYX/RimePPT/main/RimePPT/Assets/MYXMJY-white.png" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WRMYX/RimePPT/main/RimePPT/Assets/MYXMJY-black.png" />
-    <img src="https://raw.githubusercontent.com/WRMYX/RimePPT/main/RimePPT/Assets/MYXMJY-black.png" width="180" height="40" alt="开发团队 MYXMJY Logo" />
-  </picture>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello%2C+we+are+MYXMJY!;Build+something+interesting.;Welcome+to+our+GitHub!" alt="MYXMJY 动态欢迎语" />
 
-  <p>这是 <strong>MYXMJY</strong> 开发团队的 Logo</p>
+<p>
+  <a href="https://github.com/WRMYX?tab=followers"><img src="https://img.shields.io/github/followers/WRMYX?style=for-the-badge&logo=github&label=Followers&color=00bcd4" alt="关注者" /></a>
+  <img src="https://komarev.com/ghpvc/?username=WRMYX&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="主页访问量" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 项目
+## 🚀 这是我们的一些小项目，欢迎你来参观！
 
-### 🎤 [RimePPT](https://github.com/WRMYX/RimePPT)
+### ✨ [RimePPT](https://github.com/WRMYX/RimePPT)
 
-> 一句话介绍 RimePPT，比如：一个用于生成押韵 PPT / 说唱押韵内容的小工具。
+欢迎查看我们的 RimePPT 项目！详细介绍、使用方式和最新进展请访问项目仓库。
 
-[![查看项目](https://img.shields.io/badge/查看项目-RimePPT-blue?style=for-the-badge&logo=github)](https://github.com/WRMYX/RimePPT)
-[![GitHub stars](https://img.shields.io/github/stars/WRMYX/RimePPT?style=social)](https://github.com/WRMYX/RimePPT)
+<div align="center">
 
-- 仓库地址：[WRMYX/RimePPT](https://github.com/WRMYX/RimePPT)
-- 项目简介：把这里换成 RimePPT 的简单介绍
-- 主要功能：
-  - ✨ 功能一
-  - ⚡ 功能二
-  - 🎨 功能三
+## 🎨 MYXMJY 开发团队 Logo
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WRMYX/RimePPT/main/RimePPT/Assets/MYXMJY-white.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WRMYX/RimePPT/main/RimePPT/Assets/MYXMJY-black.png" />
+  <img src="https://raw.githubusercontent.com/WRMYX/RimePPT/main/RimePPT/Assets/MYXMJY-black.png" width="180" height="40" alt="MYXMJY 开发团队 Logo" />
+</picture>
+
+</div>
+
+---
+
+## 📊 GitHub 数据
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WRMYX&show_icons=true&theme=tokyonight&hide_border=true" alt="WRMYX GitHub 统计" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WRMYX&layout=compact&theme=tokyonight&hide_border=true" alt="WRMYX 常用语言统计" />
+</div>
+
+## 🌌 贡献活动
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WRMYX&theme=tokyo-night&hide_border=true" alt="WRMYX 贡献活动图" />
+
+  **感谢你的到访，期待与你一起创造更多有趣的项目！** 🚀
+</div>
