@@ -7,11 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hello%2C+we+are+MYXMJY!;Build+something+interesting.;Welcome+to+our+GitHub!" alt="MYXMJY 动态欢迎语" />
 
 <p>
-  <a href="https://github.com/WRMYX?tab=followers"><img src="https://img.shields.io/github/followers/WRMYX?style=for-the-badge&logo=github&label=Followers&color=00bcd4" alt="关注者" /></a>
-  <img
-  src="https://komarev.com/ghpvc/?username=WRMYX&amp;label=Profile%20Views&amp;color=blueviolet&amp;style=for-the-badge"
-  alt="Profile Views"
-/>
+  <a href="https://github.com/WRMYX?tab=followers"><img src="https://img.shields.io/github/followers/WRMYX?style=for-the-badge&amp;logo=github&amp;label=%E5%85%B3%E6%B3%A8%E8%80%85&amp;color=00bcd4" alt="关注者" /></a>
+  <img src="https://komarev.com/ghpvc/?username=WRMYX&amp;style=for-the-badge&amp;color=blueviolet&amp;label=%E4%B8%BB%E9%A1%B5%E8%AE%BF%E9%97%AE%E9%87%8F" alt="主页访问量" />
 </p>
 
 </div>
@@ -41,14 +38,14 @@
 ## 📊 GitHub 数据
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WRMYX&show_icons=true&theme=tokyonight&hide_border=true" alt="WRMYX GitHub 统计" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WRMYX&layout=compact&theme=tokyonight&hide_border=true" alt="WRMYX 常用语言统计" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WRMYX&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=cn" alt="WRMYX GitHub 统计" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WRMYX&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;locale=cn" alt="WRMYX 常用语言统计" />
 </div>
 
 ## 🌌 贡献活动
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WRMYX&theme=tokyo-night&hide_border=true" alt="WRMYX 贡献活动图" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WRMYX&amp;theme=tokyonight" alt="WRMYX 贡献活动概览" />
 
   **感谢你的到访，期待与你一起创造更多有趣的项目！** 🚀
 </div>
